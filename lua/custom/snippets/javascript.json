@@ -1,0 +1,23 @@
+{
+	"querySelector": {
+		"prefix": "qs",
+		"body": [
+			"document.querySelector(\"$0\");"
+		],
+		"description": "querySelector"
+	},
+	"querySelectorAll": {
+		"prefix": "qsa",
+		"body": [
+			"document.querySelectorAll(\"$0\");"
+		],
+		"description": "querySelectorAll"
+	},
+  "console log": {
+		"prefix": "clg",
+		"body": [
+			"console.log($0)"
+		],
+		"description": "console log"
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "NvChad snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./css.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./javascript.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./javascript.json"
+      },
+      {
+        "language": "json",
+        "path": "./json.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./typescript.json"
+      }
+
+
+    ]
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+	"prettier config": {
+		"prefix": "prettier",
+		"body": [
+			"{",
+			"\t\"tabWidth\": 2,",
+			"\t\"printWidth\": 120,",
+			"\t\"singleQuote\": false,",
+			"\t\"trailingComma\": \"es5\",",
+			"\t\"arrowParens\": \"avoid\",",
+			"\t\"semi\": true,",
+			"\t\"endOfLine\": \"lf\"",
+			"}"
+		],
+		"description": "basic config of prettier"
+	}
+}

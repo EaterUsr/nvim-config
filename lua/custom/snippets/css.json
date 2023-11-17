@@ -1,0 +1,21 @@
+{
+	"reset": {
+		"prefix": "rst",
+		"body": [
+			"*, *::before, *::after {",
+			"\tpadding: 0;",
+			"\tmargin: 0;",
+			"\tbox-sizing: border-box;",
+			"}",
+			"html {",
+			"\tfont-family: system-ui, sans-serif;",
+			"\tcolor-scheme: light dark;",
+			"\ttext-wrap: balance;",
+			"}",
+			"body {",
+			"\tbackground: #f1f1f1",
+			"}"
+		],
+		"description": "A reset in css"
+	}
+}
